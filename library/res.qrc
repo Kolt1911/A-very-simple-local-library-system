@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="start">res/img/start.jpg</file>
+        <file alias="user">res/img/user.ico</file>
+        <file alias="admin">res/img/admin.ico</file>
+        <file alias="login">res/img/login.ico</file>
+        <file alias="book">res/img/book.ico</file>
+        <file alias="exit">res/img/main-user/exit.ico</file>
+        <file alias="logout">res/img/main-user/logout.ico</file>
+        <file alias="borrow">res/img/main-user/borrow.ico</file>
+        <file alias="return">res/img/main-user/return.ico</file>
+        <file alias="search">res/img/main-user/Cii14.ico</file>
+        <file alias="author">res/img/main-user/author.ico</file>
+        <file alias="all">res/img/main-user/all.ico</file>
+        <file alias="add">res/img/main-user/add.ico</file>
+        <file alias="delete">res/img/main-user/delete.ico</file>
+        <file alias="update">res/img/main-user/update.ico</file>
+        <file alias="admin-book">res/img/main-user/admin-book.ico</file>
+        <file alias="admin-users">res/img/main-user/admin-users.ico</file>
+    </qresource>
+</RCC>
