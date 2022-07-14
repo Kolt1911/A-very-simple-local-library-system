@@ -1,4 +1,4 @@
-# A-very-simple-local-library-system  (图书管理系统）
+# A-very-simple-local-library-system  (图书管理系统/C++/QT5/数据库）
 It's a very simple library system on local machine. I built it for homework and study by QT5 when I first study QT5 and C++.
 
 You could find admin info from Access database file.
